@@ -8,7 +8,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 
-
 public class JsonReader {
     public ArrayList<User> readJsonFile(String fichero){
         try {
